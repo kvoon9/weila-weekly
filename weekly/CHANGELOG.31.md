@@ -1,23 +1,3 @@
-## network
-
-### 新功能
-
-- Hookable api (6cc7331)
-- Improve hooks type (cca2685)
-
-## weila-account-manager
-
-### 新功能
-
-- Ai mcp + ci/cd pipeline (275e237)
-- Switch to github actions (459078c)
-- 更新 network 包，采用 hookable api (195102d)
-
-### 杂项维护
-
-- Update (261a68f)
-- Update (9100c8a)
-
 ## weila-work-unity
 
 ### 新功能

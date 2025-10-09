@@ -1,4 +1,4 @@
-## astro-content
+## weila-static-content
 
 ### 新功能
 
@@ -8,18 +8,6 @@
 
 - Update (5e1e1e9)
 - Update (e821f2d)
-
-## network
-
-### 问题修复
-
-- Don't pass token when it not exist (8d77382)
-- Response error (a05d27b)
-
-### 杂项维护
-
-- Update deps (0460b32)
-- Update (0fa834a)
 
 ## weila-work-unity
 

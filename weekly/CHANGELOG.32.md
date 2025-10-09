@@ -1,11 +1,3 @@
-## network
-
-### 问题修复
-
-- Weila baseurl (6319a58)
-- Update (be9cc2a)
-- Throw error when auth failed (4bcc921)
-
 ## weila-work-unity
 
 ### 新功能

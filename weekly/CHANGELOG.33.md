@@ -1,22 +1,3 @@
-## network
-
-### 新功能
-
-- Async hook (36e1ccf)
-- Add ctx to hooks (e42a667)
-
-## weila-account-manager
-
-### 问题修复
-
-- 已知 bug (4130694)
-- 翻页等问题 (47f96ce)
-- Clear unused placeholder (2006b50)
-
-### 杂项维护
-
-- Update (c065717)
-
 ## weila-work-unity
 
 ### 新功能
